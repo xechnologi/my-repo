@@ -1,4 +1,4 @@
-# Welcome to my Repository
+# Welcome Calendar Project Java Console
 
 > Calendar Project in Java for Algorithm Analysis Course [CIC10303]
 
